@@ -1,2 +1,2 @@
 # PDB_Parser
-Code developed for the class of Practical Computing for Bioinformatics at KU Leuven. More information in the README file.
+This module and script were developed for the class of Practical Computing for Bioinformatics at KU Leuven. In the module I created functions that parse a PDB file (example provided in the input_files folder), finds the theoretical coordinates to the protein center and also looks for the atoms that interact with the Fe atom in the middle of the 5kkk protein. In the script all this functions are used to generate some output.
